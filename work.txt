@@ -1,0 +1,30 @@
+// no plagiarism
+
+-------------------
+Submit Every Friday
+-------------------
+
+Class 1
+
+1) publish an article on the browser war
+2) publish an article 10 applications built with react or react native by Nigerians / Africans
+i) if it's react native -> download and install on your phone, screenshot and add to article\
+ii) if it's web app -> create an account and screeenshot
+iii) tell us about the app 
+
+Class 2 ( Saturday )
+
+1) create and deploy our react app
+2) solve your own count to 6. screenshot each of the answer and publish an article.
+3) Learn about javascript arrays. And array functions like ( map, filter, reduce, etc). 
+share screenshot of the count-to-6 arrow function challenge
+
+
+Class 3
+
+1) Publish an article describing these terms with orignal code examples
+a) anonymous function in javascript
+b) this concept in javascript
+c) explain destructing in javascript and give sample code as example
+
+2) We all complete the Count-to-6 execises. 10. 

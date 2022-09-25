@@ -1,0 +1,8 @@
+1) node.js
+2) editor ( vscode )
+where you are writing the code
+3) git 
+4) github ( register an account )
+5) Browsers ( chrome, firefox, opera, uc browser, safari, edge )
+6) blog ( medium.com, dev.to )
+

@@ -1,0 +1,14 @@
+Count-To-6
+
+Why?
+To update our javascript knowledge
+
+How?
+1) npm install -g count-to-6
+
+2) npx count-to-6
+
+Make sure to always put npx
+Questions?
+
+1) 
