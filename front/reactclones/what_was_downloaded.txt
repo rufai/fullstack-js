@@ -1,0 +1,29 @@
+What Was Downloaded?
+
+1- node_modules folder
+* you must delete it
+* it contain things that are important for react to run
+* it contains dependencies
+
+2- public
+* you must delete it
+* it contains static files
+* static files are files are don't often
+* font, logo, icon
+
+3- src
+source
+* this is where the code is written
+
+4- gitignore
+* to track version control
+ 
+5- package.json ( inventory )
+* contains a list of all the dependencies
+
+6. README.md
+
+What Was Generated? 
+7. build 
+    - public
+    - src

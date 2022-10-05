@@ -1,0 +1,28 @@
+How To Create or Generate A React Application
+
+1) Decide the name of your application
+Darlington
+
+2) Create A Folder 
+
+3) Point your terminal to the folder
+
+4) Make sure you have installed node on your system
+
+5) npx create-react-app mary
+
+6) cd mary
+
+7) npm start
+
+How To Deploy ( Put Your App ) Online
+
+Constraint ( we don't want to spend money )
+
+1) github
+2) netlify
+3) surge.sh
+
+4) Heroku
+5) Digital Ocean
+6) 

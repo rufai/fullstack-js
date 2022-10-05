@@ -1,0 +1,23 @@
+
+
+#person {
+    background-color: blue;
+    padding: 10%;
+    margin: 5%;
+}
+
+#person > img {
+    width: 40%;
+}
+
+#person > span {
+    display: block;
+    font-size: large;
+    font-weight: 700;
+    color: aliceblue;
+    text-decoration: underline;
+}
+
+#person > p {
+    color: aliceblue;
+}

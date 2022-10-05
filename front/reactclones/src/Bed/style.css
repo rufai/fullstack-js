@@ -1,0 +1,22 @@
+
+
+#bed {
+    background-color: purple;
+    padding: 10%;
+}
+
+#bed > img {
+    width: 40%;
+}
+
+#bed > span {
+    display: block;
+    font-size: large;
+    font-weight: 700;
+    color: aliceblue;
+    text-decoration: underline;
+}
+
+#bed > p {
+    color: aliceblue;
+}

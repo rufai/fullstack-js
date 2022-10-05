@@ -1,0 +1,19 @@
+Content of Src
+=======
+
+1) app.css 
+2) app.js ( palour of the react )
+
+4) index.css ( style )
+5) index.js ( gate to enter react )
+
+
+6) logo
+7) setupTest
+8) resportVitals
+3) app.test.js
+
+
+html (structure) + css ( style ) + js ( interact ) ===> easy
+
+js ( oga ) + html + css ===> react  
