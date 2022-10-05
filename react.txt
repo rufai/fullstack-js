@@ -1,0 +1,18 @@
+React ( to build web sites )
+ 
+1) it is based on js
+2) latest version of js ( ES6 - Ecmascript )
+
+Principles of React
+1 ) declaritive
+make your simple. by writing ES6
+
+2) components style
+...
+
+3) write once, run anywhere
+
+write reactjs and run it on web, mobile and desktop
+
+
+
