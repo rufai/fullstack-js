@@ -1,0 +1,12 @@
+1) sendcash currency converter
+https://app.sendcash.africa/
+
+2) cowrywiser interest calculator
+https://cowrywise.com/interest-tool
+
+3) first bank loan interest calculator
+https://www.firstbanknigeria.com/personal/loans/loan-calculator/
+
+4) piggyvest interest calculator
+https://the-genesis.github.io/piggyvest-interest-calculator/
+https://piggyvestcalc.netlify.app/

@@ -1,0 +1,38 @@
+1) what is a component?
+ Simple 
+ - A component is a section of the web page.
+ Technical
+ - a component is a function that returns html + css
+
+Spotify
+    - header
+    - sidebar
+    - popular
+    - single and EPs
+    - popular release
+    - featuring Asaka
+    - fans also like 
+    - appears on
+    - discovered on
+    - About
+
+2) How Do You Create A Component In React?
+    - all your components will be in src folder
+
+2) what are the things that make up component?
+3) state
+4) data
+5) properties
+6) components must be pure
+7) What purity is and how it helps you avoid bugs
+8) How to keep components pure by keeping changes out of the render phase
+9) How to use Strict Mode to find mistakes in your components
+
+Thinking In Components
+============
+0) a component should perform only 1 job/task   
+1) each component must be independent
+
+2) components come together ( composable, compose )  then compose them to make complex UIs.
+
+
