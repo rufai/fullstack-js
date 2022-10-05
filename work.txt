@@ -5,6 +5,7 @@ Submit Every Friday
 -------------------
 
 Class 1
+=======
 
 1) publish an article on the browser war
 2) publish an article 10 applications built with react or react native by Nigerians / Africans
@@ -13,18 +14,47 @@ ii) if it's web app -> create an account and screeenshot
 iii) tell us about the app 
 
 Class 2 ( Saturday )
+=======
 
-1) create and deploy our react app
-2) solve your own count to 6. screenshot each of the answer and publish an article.
+1) publish an article describing how you create and deploy a react app
+2) solve your own count to 6. 
+b) screenshot each of the answer and publish an article.
 3) Learn about javascript arrays. And array functions like ( map, filter, reduce, etc). 
-share screenshot of the count-to-6 arrow function challenge
+b) share screenshot of the count-to-6 arrow function challenge
 
 
 Class 3
+=======
 
 1) Publish an article describing these terms with orignal code examples
 a) anonymous function in javascript
-b) this concept in javascript
+b) "this" concept in javascript
 c) explain destructing in javascript and give sample code as example
-
 2) We all complete the Count-to-6 execises. 10. 
+
+Class 4
+=======
+1) publish an article explaining  web components
+b) 10 different web component
+    ===> visual presentation ( what doe it look like ?) 
+    ===> behaviour ( what does it do ? )
+    ===> screenshot the website where it exist
+2) what is the different between a library and a framework with examples
+3) compare and contrast framework/library with plain js
+
+
+Class 5
+=========
+
+1) what is a component?
+ Simple 
+ - A component is a section of the web page.
+ Technical
+ - a component is a function that returns html + css
+
+2) How Do You Create A Component In React?
+    - all your components will be in src folder
+3) Explain the ideas of (i) state (ii) data (iii) properties
+4)  Explain this statement "Components must be pure."
+7) What is component purity  and how it helps you avoid bugs?
+8) How do we keep components pure by keeping changes out of the render?
