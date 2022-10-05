@@ -1,0 +1,32 @@
+Browsers 
+
+1) what are Browsers
+Tool used to connect to the web.
+The internet is big thing. The web is part of the internet.
+
+- are used to download data 
+- is on the web
+- it is on a computer ( server ) on the web
+
+- data ( video, image, pdf, text, html, css, js )
+
+2) The War of Browsers ( History of Browsers )
+
+- netscape ( 1994/5 )
+- window 95
+- microsoft ( internet explorer )
+- 1998 ( mozilla foundation , firefox )
+- opera ( mini , mobile,  )
+- uc browser
+- yandex
+- google ( chrome )
+- > 2010 
+
+3) Browser Developer Tools
+4) Chrome Developer Tools
+
+a)Element => give insight into the html and css of the page
+b)Console
+c) Source
+d) Network
+e) LightHouse
