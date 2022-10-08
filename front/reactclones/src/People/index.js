@@ -2,10 +2,10 @@ import Person from "../Person";
 
 const customers = require("../data/customers.json");
 
-
-
 function givePeople() {
-  return customers.map((item) => <Person p={item } key={`${item.id}/${item.company}`}/>);
+  return customers.slice(1,20).map((item) => (
+    <Person p={item} key={`${item.id}/${item.company}`} />
+  ));
 }
 
 function People() {

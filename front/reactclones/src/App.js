@@ -7,22 +7,29 @@ import Kitchen from "./Kitchen"; // enter the kitchen
 import Clones from "./Clones"; // open the clones door
 import Person from "./Person";
 import People from "./People";
+import Hotels from "./Hotels";
+// import Harper from "./Harper";
+import { Harper, Styled } from "./Harper";
+
+// we are not using it
+
 function App() {
+  const morningFood = "plaintain and fried fish";
+  const afternoonFood = "egusi soup with eba";
   return (
     <div className="App">
-
       <Clones></Clones>
-
-      <Kitchen></Kitchen>
+      <Kitchen breakfast={morningFood} lunch={afternoonFood}></Kitchen>
       <Bed></Bed>
-     {/* <People></People> */}
+      <Harper></Harper>
       {/* <People></People> */}
-      {/* <Person></Person>
-      <Person></Person>
+      <People></People>
+      {/* <Person></Person> */}
+      {/*<Person></Person>
       <Person></Person> */}
-      {/* <Beds></Beds> */}
+      <Beds></Beds>
+      <Hotels></Hotels>
     </div>
-    
   );
 }
 

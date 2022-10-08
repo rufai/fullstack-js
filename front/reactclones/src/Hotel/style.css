@@ -1,0 +1,41 @@
+
+#hotel {
+    padding: 10%;
+    display: flex;
+    justify-content: space-between;
+    border-style: solid;
+    border-width: 0.5rem;
+}
+
+
+#product {
+    width: 20%;
+}
+#rating {
+
+    background-color: blue;
+    color: white;   
+    font-weight: 400;
+    border-radius: 5%;
+    text-align: end;
+    height: fit-content;
+    padding: 1%;
+}
+
+#name {
+    padding: 10%;
+    display: block;
+}
+a {
+    text-decoration: none;
+    color: black;
+    font-weight: 600;
+}
+a:hover {
+    text-decoration: underline;
+    
+}
+#pricing {
+    font-weight: 700;
+    
+}

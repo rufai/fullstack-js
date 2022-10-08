@@ -5,10 +5,12 @@ import "./style.css";
 
 function Person(props) {
   // console.log(props);
+  
   return (
     <div>
       <section id="person">
         <span> {props.p.id} </span>
+       
         <span>
           {" "}
           {props.p.first}

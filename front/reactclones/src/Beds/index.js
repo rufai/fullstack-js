@@ -5,7 +5,7 @@ const customers = require("../data/customers.json");
 const ages = [5, 6, 7, 8, 9, 3, 2, 1];
 
 function giveBeds() {
-  return customers.map((item) => <section><h1>{item.id}</h1><Bed></Bed></section>);
+  return customers.slice(1,20).map((item) => <section><h1>{item.id}</h1><Bed></Bed></section>);
 }
 
 function Beds() {

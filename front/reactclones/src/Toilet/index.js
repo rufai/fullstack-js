@@ -4,4 +4,4 @@ function Toilet(){
     return <div> Toilet </div>
 }
 
-export default Toilet; // door
+export default Toilet; 
