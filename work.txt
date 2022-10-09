@@ -58,3 +58,22 @@ Class 5
 4)  Explain this statement "Components must be pure."
 7) What is component purity  and how it helps you avoid bugs?
 8) How do we keep components pure by keeping changes out of the render?
+
+Class 6 ( Friday )
+=========
+
+1) explain the term "seperation of concern"
+2) demonstrate with code different ways to style components
+
+Class 7 ( Saturday )
+===============
+
+1) Explain the concept of pagination. Show different ui implementation of this component and give scenerios where each are best applied.
+a) how to handle pagination on mobile
+b) how to implement pagination in react
+2) Describe props behviour in relation to components with sample code
+
+Class 8 ( Sunday )
+===============
+1) Write about 10 different web events and how to use them in code
+2) Explain with code sample concept of State in react
