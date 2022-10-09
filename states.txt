@@ -1,0 +1,30 @@
+// States
+
+data that changes in a component
+
+name-of-state
+how to update the state
+
+import { useState } from 'react'
+
+const [joy, updateJoy] = useState("Quincy")
+
+the name of the state is joy
+that joy is a variable
+it takes an initial of Quincy
+
+updateJoy is a function that we use to change the value of joy
+
+function updateJoy(value){
+    joy = value
+}
+
+ const [currentContent, setCurrentContent] = useState(
+    `Click here to save the world`
+  );
+
+  currentContent is the name of the state
+  setCurrentContent is a function that use to update the currentContent
+
+
+const name = "ha

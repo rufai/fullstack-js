@@ -1,0 +1,10 @@
+1) What is an event?
+a thing that happens or takes place
+
+Properties
+==========
+1) time-bound
+2) trigger
+
+trigger (influence) -> action 
+click on button --> alert("Hey, Chidinma buy us chicken.")
